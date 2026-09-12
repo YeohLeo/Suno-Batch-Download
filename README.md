@@ -22,6 +22,9 @@
   <a href="https://sunobatch.com/#pricing"><strong>💳 View Pricing</strong></a>
 </p>
 
+> **Official product page:** This repository is the public overview for SunoBatch.  
+> Download the latest browser extension only from **[sunobatch.com/extension](https://sunobatch.com/extension)**.
+
 <p align="center">
   <img alt="Chrome and Edge" src="https://img.shields.io/badge/Chrome%20%2F%20Edge-Desktop-6C4DFF">
   <img alt="Formats" src="https://img.shields.io/badge/M4A%20%7C%20MP3%20%7C%20WAV-supported-6C4DFF">
@@ -151,9 +154,13 @@ Choose one or more tracks in your Suno track list.
 
 > **Important:** the M4A / MP3 / WAV actions stay disabled until at least one track is selected.
 
+<p align="center">
+  <img src="./assets/sunobatch-select-tracks.webp" alt="Select multiple Suno tracks before downloading with SunoBatch">
+</p>
+
 ### 6. Choose M4A, MP3, or WAV
 
-Open the SunoBatch download panel and choose your format.
+Click the **download icon in the top-right of the Suno page**, then choose **M4A, MP3, or WAV**.
 
 <p align="center">
   <a href="https://sunobatch.com/extension">
